@@ -11,3 +11,21 @@ button {
 #demo {
 font-size: 36pt;
 }
+
+.flex-container {
+    display: inline-block;
+  }
+
+
+.flex-container a {
+    color: black;
+    text-decoration: none;
+
+}
+
+.flex-container a.active {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 48pt;
+  }
+.flex-container a:hover:not(.active) {background-color: #ddd;}

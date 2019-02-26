@@ -13,8 +13,9 @@ function timedText() {
     else {
       document.getElementById("demo").innerHTML = "End of List."  
     }
-  }
+  };
   
+
 
 
 
