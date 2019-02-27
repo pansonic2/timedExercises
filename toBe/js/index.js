@@ -8,7 +8,7 @@ function timedText() {
     if (listQ[i]){ 
     document.getElementById("demo").innerHTML = listQ[i];
     i += 1;
-    setTimeout(myTimeout1, 2000);
+    setTimeout(myTimeout1, 1800);
     }
     else {
       document.getElementById("demo").innerHTML = "End of List.";
