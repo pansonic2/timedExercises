@@ -2,10 +2,11 @@ body {
     
     padding-left: 30%;
     padding-top: 10%;
+    font-size: 28pt;
 }
 
 button {
-    font-size: 18pt;
+    font-size: 28pt;
 }
 
 #demo {
