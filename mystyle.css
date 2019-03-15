@@ -11,23 +11,4 @@ button {
 
 #demo {
 font-size: 36pt;
-}
-
-.flex-container {
-    font-size: 28pt;
-    display: inline-block;
-  }
-
-
-.flex-container a {
-    color: black;
-    
-
-}
-
-.flex-container a.active {
-    background-color: #4CAF50;
-    color: white;
-    font-size: 48pt;
-  }
-.flex-container a:hover:not(.active) {background-color: #ddd;}
+};
